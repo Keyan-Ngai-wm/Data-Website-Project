@@ -1,0 +1,293 @@
+body
+{margin:0;
+    padding:0;
+    background-image: https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ0cchod-fd2kJYIES3cNOCK6YLY-Q_k7gBZhrnqbGcPSrtO1cC;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#wrapper
+{width: 1024px;
+    margin:10px;
+    padding:0;
+    width:1000px;
+    height:1000px;
+}
+
+header
+{width:990px;
+    height:90px;
+    background-color:lightskyblue;
+    margin:0;
+    padding:5px;
+}
+
+#left_sidebar
+{width:200px;
+    height:800px;
+    margin:0;
+    padding:0;
+    background-color:lightskyblue;
+    float:left;
+}
+
+ul>li
+{list-style:none;
+}
+
+#main
+{width:790px;
+    height:800px;
+    background-color:white;
+    float:right;
+    margin:0;
+    padding:0 5px 0 5px;
+}
+
+header h1
+{font-size: 2.5em;
+    color: #FFFFFF;
+}
+
+header img {
+    float: left;
+}
+
+header h1 {
+    position: relative;
+}
+
+p, q
+{font-size: 1em;
+    color: #666666;
+}
+
+q
+{font-style:italic;
+}
+
+h1
+{font-size:2em;
+    color:#000000;
+}
+
+h2
+{font-size:1.5em;
+    color:#000000;
+}
+
+a
+{font-weight:bold;
+    text-decoration:underline;
+    color:#FFB310;
+    font-size:1em;
+}
+
+h1:first-of-type + p
+{color:#FFB310;
+}
+
+nav ul li
+{margin-bottom: 15px;
+    margin-left:0;
+}
+
+nav ul li
+{margin-bottom:2px;
+}
+
+nav ul li a
+{padding: 5px 5px 5px 15px;
+    display: block;
+    width: 100px;
+    text-decoration: none;
+    background:lightskyblue;
+    color:#ffffff;
+    text-align:center;
+}
+
+nav ul a:hover, nav ul a:active
+{background:lightskyblue;
+    color: #000;
+}
+
+h1+p:first-letter
+{font-size:2em;
+}
+
+.contentinfo {
+    position: relative;
+    background-color:lightskyblue ;
+    width:100%;
+    height:60px;
+    text-align: center;
+    color: #F2EEC1;
+    clear: both;
+    font-size: 16px;
+    clear: both;
+    font-weight:200;
+}
+
+.contentinfo h2 {
+    display:none;
+}
+
+.contentinfo p {
+    margin: 20px auto;
+    opacity: 0.9;
+    display: inline-block;
+    border-right: solid 2px lightskyblue;
+    padding: 0px 14px;
+    text-transform: uppercase;
+    color:#fff;
+}
+
+.contentinfo p:last-child {
+    border-right: none;
+v
+
+
+body
+{margin:0;
+    padding:0;
+    background-image: url(images/background.jpg);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+#wrapper
+{width: 1024px;
+    margin:10px;
+    padding:0;
+    width:1000px;
+    height:1000px;
+}
+
+header
+{width:990px;
+    height:90px;
+    background-color:lightskyblue;
+    margin:0;
+    padding:5px;
+}
+
+#left_sidebar
+{width:200px;
+    height:800px;
+    margin:0;
+    padding:0;
+    background-color: #fff;
+    float:left;
+}
+
+ul>li
+{list-style:none;
+}
+
+#main
+{width:790px;
+    height:800px;
+    background-color:#fff;
+    float:right;
+    margin:0;
+    padding:0 5px 0 5px;
+}
+
+header h1
+{font-size: 2.5em;
+    color: #FFFFFF;
+}
+
+header img {
+    float: left;
+    padding-left:15px
+}
+
+header h1 {
+    position: relative;
+}
+
+p, q
+{font-size: 1em;
+    color: #666666;
+}
+
+q
+{font-style:italic;
+}
+
+h1
+{font-size:2em;
+    color:#000000;
+}
+
+h2
+{font-size:1.5em;
+    color:#000000;
+}
+
+a
+{font-weight:bold;
+    text-decoration:underline;
+    color:#FFB310;
+    font-size:1em;
+}
+
+h1:first-of-type + p
+{color:#FFB310;
+}
+
+nav ul li
+{margin-bottom: 15px;
+    margin-left:0;
+}
+
+nav ul li
+{margin-bottom:2px;
+}
+
+nav ul li a
+{padding: 5px 5px 5px 15px;
+    display: block;
+    width: 100px;
+    text-decoration: none;
+    background:lightskyblue;
+    color:#ffffff;
+    text-align:center;
+}
+
+nav ul a:hover, nav ul a:active
+{background:#ffffff;
+    color: #000;
+}
+
+h1+p:first-letter
+{font-size:2em;
+}
+
+.contentinfo {
+    position: relative;
+    background-color: lightskyblue;
+    width:100%;
+    height:60px;
+    text-align: center;
+    color: #F2EEC1;
+    clear: both;
+    font-size: 16px;
+    clear: both;
+    font-weight:200;
+}
+
+.contentinfo h2 {
+    display:none;
+}
+
+.contentinfo p {
+    margin: 20px auto;
+    opacity: 0.9;
+    display: inline-block;
+    border-right: solid 2px #fe606e;
+    padding: 0px 14px;
+    text-transform: uppercase;
+    color:#fff;
+}
+
+.contentinfo p:last-child {
